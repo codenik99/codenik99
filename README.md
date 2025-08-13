@@ -54,25 +54,25 @@ I bring together modern frontend tools with blockchain integrations to create en
 </table>
 
 ---
-
 ## 📫 Connect With Me
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thalesbmc/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-logos-6/512/11-linkedin-512.png" width="80" alt="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="80" alt="LinkedIn">
   </a>
   <!-- Gmail -->
   <a href="mailto:thalesbmc@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80" alt="Gmail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="80" alt="Gmail">
   </a>
   <!-- X (Twitter new logo) -->
   <a href="https://x.com/Nikhil_Chavan_0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="80" alt="X (Twitter)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/X_logo_2023.svg/512px-X_logo_2023.svg.png" width="80" alt="X (Twitter)">
   </a>
   <!-- Portfolio -->
   <a href="https://nikhilchavan.in/">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="80" alt="Portfolio Website">
   </a>
 </p>
+
 
 
