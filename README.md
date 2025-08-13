@@ -57,6 +57,21 @@ I bring together modern frontend tools with blockchain integrations to create en
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/thalesbmc/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80"></a>
-  <a href="mailto:thalesbmc@gmail.com"><img src="./gmail.png" width="80"></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/thalesbmc/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80" alt="LinkedIn">
+  </a>
+  <!-- Email -->
+  <a href="mailto:thalesbmc@gmail.com">
+    <img src="./gmail.png" width="80" alt="Gmail">
+  </a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Nikhil_Chavan_0">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="80" alt="X (Twitter)">
+  </a>
+  <!-- Portfolio -->
+  <a href="https://nikhilchavan.in/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="80" alt="Portfolio Website">
+  </a>
 </p>
+
