@@ -59,19 +59,20 @@ I bring together modern frontend tools with blockchain integrations to create en
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/thalesbmc/">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="80" alt="LinkedIn">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-logos-6/512/11-linkedin-512.png" width="80" alt="LinkedIn">
   </a>
-  <!-- Email -->
+  <!-- Gmail -->
   <a href="mailto:thalesbmc@gmail.com">
-    <img src="./gmail.png" width="80" alt="Gmail">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80" alt="Gmail">
   </a>
-  <!-- X (Twitter) -->
+  <!-- X (Twitter new logo) -->
   <a href="https://x.com/Nikhil_Chavan_0">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="80" alt="X (Twitter)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="80" alt="X (Twitter)">
   </a>
   <!-- Portfolio -->
   <a href="https://nikhilchavan.in/">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="80" alt="Portfolio Website">
   </a>
 </p>
+
 
