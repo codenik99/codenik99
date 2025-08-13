@@ -48,9 +48,7 @@ I bring together modern frontend tools with blockchain integrations to create en
     <tr>
         <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=tokyonight" alt="Streak Stats"/></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/aeristhy/aeristhy/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/></td>
-    </tr>
+ 
 </table>
 
 ---
