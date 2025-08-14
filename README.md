@@ -13,10 +13,13 @@
 
 ---
 
-## 👋 About Me
-Hey there!  
-I'm a **Frontend Developer** specializing in **Web3** and **crypto-based** applications for both web and mobile.  
-I bring together modern frontend tools with blockchain integrations to create engaging, scalable, and secure user experiences.
+##👋 About Me
+
+🚀 Full-Stack Developer | App & Web Innovator | Tech Explorer
+💻 Crafting sleek web experiences with React and building powerful mobile apps with Flutter.
+⚙ Backend wizardry with Node.js + Express.js & rock-solid MongoDB database management.
+🛠 Fluent in C, C++, and Java, with a curiosity for blockchain and emerging tech.
+✨ Passionate about creating engaging, scalable, and secure digital solutions.
 
 ---
 
