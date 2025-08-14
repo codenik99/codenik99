@@ -4,7 +4,6 @@
 <!-- Badges -->
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="#"><img src="https://img.shields.io/github/contributors/aeristhy/aeristhy?color=blue"></a>
     <a href="#"><img src="https://img.shields.io/github/stars/aeristhy"></a>
     <a href="#"><img src="https://img.shields.io/github/forks/aeristhy/aeristhy.svg?color=blue&logo=github"></a>
