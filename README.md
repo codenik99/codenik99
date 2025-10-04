@@ -44,19 +44,14 @@
 ## 📈 Activity Graph
 <table>
     <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Commits-9999-blue" alt="Fake Commits"/>
-        </td>
-        <td rowspan="2" align="center">
-            <img src="https://img.shields.io/badge/Top%20Langs-JavaScript%20%7C%20Python-green" alt="Fake Top Languages"/>
-        </td>
+        <td align="center"><img src="https://via.placeholder.com/400x200?text=GitHub+Stats" alt="GitHub Stats"/></td>
+        <td rowspan="2" align="center"><img src="https://via.placeholder.com/400x200?text=Top+Languages" alt="Top Languages"/></td>
     </tr>
     <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Streak-365%20days-red" alt="Fake Streak"/>
-        </td>
+        <td align="center"><img src="https://via.placeholder.com/400x100?text=Streak+Stats" alt="Streak Stats"/></td>
     </tr>
 </table>
+
 
 
 ---
