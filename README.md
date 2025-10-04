@@ -44,14 +44,20 @@
 ## 📈 Activity Graph
 <table>
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=codenik99&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/></td>
-        <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeristhy&theme=tokyonight&langs_count=8" alt="Top Languages"/></td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Commits-9999-blue" alt="Fake Commits"/>
+        </td>
+        <td rowspan="2" align="center">
+            <img src="https://img.shields.io/badge/Top%20Langs-JavaScript%20%7C%20Python-green" alt="Fake Top Languages"/>
+        </td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=tokyonight" alt="Streak Stats"/></td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Streak-365%20days-red" alt="Fake Streak"/>
+        </td>
     </tr>
- 
 </table>
+
 
 ---
 ## 📫 Connect With Me
