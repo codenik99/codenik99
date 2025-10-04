@@ -36,13 +36,13 @@
 
 ## 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=anuraghazra&row=4&theme=onedark&no-frame=true"/>
 </a>
 
 ---
 
 ## 📈 Activity Graph
-<table> <tr> <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=codenik99&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/></td> <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeristhy&theme=tokyonight&langs_count=8" alt="Top Languages"/></td> </tr> <tr> <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=tokyonight" alt="Streak Stats"/></td> </tr> </table>
+<table> <tr> <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/></td> <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeristhy&theme=tokyonight&langs_count=8" alt="Top Languages"/></td> </tr> <tr> <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=tokyonight" alt="Streak Stats"/></td> </tr> </table>
 
 
 
