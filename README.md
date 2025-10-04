@@ -36,7 +36,7 @@
 
 ## 🏆 GitHub Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=anuraghazra&row=4&theme=onedark&no-frame=true"/>
+    <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
 
 ---
