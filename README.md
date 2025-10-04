@@ -42,15 +42,7 @@
 ---
 
 ## 📈 Activity Graph
-<table>
-    <tr>
-        <td align="center"><img src="https://via.placeholder.com/400x200?text=GitHub+Stats" alt="GitHub Stats"/></td>
-        <td rowspan="2" align="center"><img src="https://via.placeholder.com/400x200?text=Top+Languages" alt="Top Languages"/></td>
-    </tr>
-    <tr>
-        <td align="center"><img src="https://via.placeholder.com/400x100?text=Streak+Stats" alt="Streak Stats"/></td>
-    </tr>
-</table>
+<table> <tr> <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=codenik99&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/></td> <td rowspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeristhy&theme=tokyonight&langs_count=8" alt="Top Languages"/></td> </tr> <tr> <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=tokyonight" alt="Streak Stats"/></td> </tr> </table>
 
 
 
